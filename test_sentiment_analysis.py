@@ -1,5 +1,5 @@
 import unittest
-from sentiment_analysis import sentiment_analyzer
+from SentimentAnalysis.sentiment_analysis import sentiment_analyzer
 
 class TestSentimentAnalyzer(unittest.TestCase):
     """
